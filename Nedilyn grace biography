@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Nidelyn grace anulao Bio</title>
+
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+
+	<!-- Site Header -->
+	<header>
+		<!-- h1: The most important headline (only one allowed per page by W3C standards) -->
+		<h1>Student Profile Page</h1>
+	</header>
+
+	<div class="container">
+		<!-- Section 1: Biography -->
+		<section id="main-bio">
+			<!-- h2: Tier-2 Headline (Not as important as the h1 header, but more than one allowed). -->
+			<h2>Nidelyn grace anulao</h2>
+
+			<!-- Headshot image -->
+			<img id="bio-image" src="img/headshot.png" alt="Nidelyn grace anulao">
+
+			<!-- Paragraph with embedded link -->
+			<h3> Student at St.augustine school of iba, inc. </h3>
+			<p>
+			  Nidelyn grace anulao I am 12yrs, I live in Liozon,Paluig Zambales I am an Agustiner Paulinian I have two siblings,In my sparetime I do modules and I play games in my cellphone and watch videos online  
+			</p>
+		</section>
+
+		<!-- Section 2: Contact Information -->
+		<section id="contact-info">
+
+			<h2>Contact Information</h2>
+			
+			<ul>
+				<li><strong>Email:<nidelyn0714@gmail.com>
+                                <li><strong>address:<liozon Iba Zambales>
+                                <li><stronh>family information:< My father is Ildee Sedney Q Anulao Sr. he is an Over Seas Filipino,my mother is Joan C Aquinon she is a online seller, I have two younger siblings they are Ildee Sedney C Anulao Jr. And Gracielyn Jean C Anulao>
+				<li><strong>Portfolio:</strong> <a href="#">Coming Soon!</a></li>
+			</ul>
+
+		</section>
+	</div>
+
+</body>
+</html>
